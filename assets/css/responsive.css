@@ -1,0 +1,188 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+ .footer_menu ul li {
+	font-size: 10px;
+}  
+.loiser_text p br {
+	display: none;
+}    
+.buton p {
+	width: 84%;
+    font-size: 18px;
+} 
+     
+.loiser_text_2 p br {
+	display: none;
+}    
+.loiser_text p {
+	line-height: 22px;
+}   
+.loiser_text {
+	padding: 15px;
+} 
+    
+    
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+ .footer_menu ul li {
+	font-size: 10px;
+}  
+.loiser_text p br {
+	display: none;
+}    
+.buton p {
+	width: 84%;
+    font-size: 18px;
+} 
+     
+.loiser_text_2 p br {
+	display: none;
+}    
+.loiser_text p {
+	line-height: 22px;
+}   
+.loiser_text {
+	padding: 15px;
+}   
+    
+}
+
+
+ 
+/* MD Device :768px. */
+@media (min-width: 320px) and (max-width: 768px) {
+.loiser_img img {
+	height: auto;
+}
+   
+.loiser_area {
+	padding: inherit;
+}   
+.loiser_text p br {
+	display: none;
+}    
+    
+    
+ .loiser_text_2 p br {
+	display: none;
+}    
+.loiser_img_2 img {
+	margin-top: 89px;
+	height: auto;
+	object-fit: cover;
+}    
+.buton p {
+	width: 100%;
+    font-size: 17px;
+}   
+.logo img {
+	max-width: 90px;
+}  
+.header-menu {
+	position: absolute;
+	top: inherit;
+	right: inherit;
+} 
+.logo {
+	margin-top: 6px;
+}  
+.header-menu {
+	position: inherit;
+	top: inherit;
+	right: inherit;
+	text-align: center;
+} 
+.header_txt p {
+	display: inherit;
+	justify-content: center;
+}
+.header_txt {
+	position: inherit;
+	right: 0;
+} 
+.header_txt span {
+	position: inherit;
+} 
+.location_mai {
+	margin-right: inherit;
+	margin-left: inherit;
+}
+.footer_menu ul {
+	padding-left: inherit;
+}
+.footer_menu ul li {
+	margin: 10px;
+}
+.header-menu ul {
+	padding-left: 0;
+}
+    
+    
+ .header_bg.bg-heght{
+	height: 100px;
+}   
+    
+.headerman {
+	position: absolute;
+	right: 0;
+	top: 3px;
+}
+.hero_all h2 {
+	font-size: 23px;
+}   
+.hero_all p {
+	font-size: 11px;
+}   
+    
+.hero_all span {
+	font-size: 15px;
+}  
+.header_bg {
+	background-position: inherit;
+} 
+    
+.logo.logo-home {
+	justify-content: inherit;
+}
+    
+.contact-form h1 {
+	font-size: 28px;
+}
+.contact-form input {
+	font-size: 18px;
+}
+.contact-form a {
+	padding: 6px 15px;
+	font-size: 22px;
+}
+    
+.headerman {
+	top: -2px;
+} 
+.conecsion_bg.bg-heght {
+	height: 100px;
+}  
+.home_bg.bg-heght {
+	height: 100px;
+}
+    
+}
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
